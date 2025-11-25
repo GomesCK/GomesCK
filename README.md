@@ -1,4 +1,4 @@
-# 👨🏼‍💻 Afonso Gomes
+# 👨🏻‍💻 Afonso Gomes
 
 **Desenvolvedor FullStack**
 
