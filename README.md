@@ -110,16 +110,8 @@ Atualmente, atuo como Desenvolvedor Full Stack Júnior na Datawake Digital, cont
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=GomesCK&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false&locale=pt-br" 
-    alt="Estatísticas do GitHub de Afonso Gomes"
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesCK&layout=compact&langs_count=9&theme=tokyonight&custom_title=Tecnologias&hide_border=false" 
-    alt="Linguagens mais usadas"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GomesCK&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false&locale=pt-br" alt="Estatísticas do GitHub de Afonso Gomes" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesCK&layout=compact&langs_count=9&theme=tokyonight&custom_title=Tecnologias&hide_border=false" alt="Linguagens mais usadas" />
 </p>
 
 
